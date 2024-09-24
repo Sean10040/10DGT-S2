@@ -1,7 +1,23 @@
 # Making loops in python
 # Author: Sean Park
-# Date: 20 September 2024
-# Version: 1
+# Date: 25 September 2024
+# Version: 2
+# TODO:
+    #Get user input (Ask the user for their name)
+    #Ask the user for 2 numbers
+    #Add the numbers together
+
+# Ask the user for their name 
+name = input ("What is your name?")
+print(f"Kia ora {name}.") #F stands for format. We are formatting the print
+
+#Ask the user for two numbers
+num_1 = int(input("What is your favourite number?"))
+num_2 = int(input("What is your least favourite number?"))
+
+#Add numbers together
+sum = num_1 + num_2
+print(f"The number added together equals to {sum}")
 
 
 # for loops. Repeat for a set number of times.
