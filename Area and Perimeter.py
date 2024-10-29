@@ -1,4 +1,4 @@
-#Error checking in python
+#Calculating the Area and Perimeter in python
 #Author: Sean Park
 #Date: 2024-10-30
 #Version 1
